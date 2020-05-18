@@ -5,12 +5,13 @@ Veel bedrijven werken harder dan ooit om in contact te blijven met hun klanten. 
 ---
 
 
-## Inhoud
-* global
-   * dataverwerking campagne (Excel)
-   * eindconclusie
-   * account screenshot
- 
- * mail-1
-   * conclusie mail-1
-   * screenshot mail-1
+## Wat vind je waar?
+
+general:
+   * screenshots van mijn account
+   * conclusie van de opdracht (algemeen).
+   * excel file met verwerkte data
+
+milestone-1:
+   * screenshots mailing 1
+   * conclusie van de eerste mailing
