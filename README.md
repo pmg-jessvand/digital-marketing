@@ -6,11 +6,11 @@ Veel bedrijven werken harder dan ooit om in contact te blijven met hun klanten. 
 
 
 ## Inhoud
-1. global
-  * dataverwerking campagne (Excel)
-  * eindconclusie
-  * account screenshot
+* global
+   * dataverwerking campagne (Excel)
+   * eindconclusie
+   * account screenshot
  
- 2. mail-1
-  * conclusie mail-1
-  * screenshot mail-1
+ * mail-1
+   * conclusie mail-1
+   * screenshot mail-1
