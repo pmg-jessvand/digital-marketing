@@ -12,6 +12,6 @@ general:
    * conclusie van de opdracht (algemeen).
    * excel file met verwerkte data
 
-milestone-1:
+mail-1:
    * screenshots mailing 1
    * conclusie van de eerste mailing
