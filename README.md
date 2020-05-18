@@ -1,4 +1,16 @@
 # Digital marketing campagne met Mailchimp.
-Voor het onderdeel digitale marketing willen we jullie kennis laten maken met een all-in-one integrated marketing platform for small businesses.
 
-Veel bedrijven werken harder dan ooit om in contact te blijven met hun klanten. Vroeger ging dit via drukwerk of reclame maar de dag van vandaag verloopt alles digitaal en gepersonaliseerd. Om hierop in te zetten laten we je kennis maken met het platform “Mailchimp”. Via dit platform kan je nagaan wat jouw publiek wil en zo gepersonaliseerde marketing bieden. Hoe meer je weet over jouw publiek hoe slimmer je kan zijn met jouw marketing.
+Veel bedrijven werken harder dan ooit om in contact te blijven met hun klanten. Vroeger ging dit via drukwerk of reclame maar de dag van vandaag verloopt alles digitaal en gepersonaliseerd. Om hierop in te zetten gebruikte ik mailchimp. Ik onderzocht de mening van mijn doelpubliek omtrent mijn voorstelling van de nieuwe website voor het Graduaat Programmeren.
+
+---
+
+
+## Inhoud
+1. global
+  * dataverwerking campagne (Excel)
+  * eindconclusie
+  * account screenshot
+ 
+ 2. mail-1
+  * conclusie mail-1
+  * screenshot mail-1
