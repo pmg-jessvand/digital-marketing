@@ -14,4 +14,8 @@ general:
 
 mail-1:
    * screenshots mailing 1
-   * conclusie van de eerste mailing
+   * Data analyse mailing 1
+
+mail-2:
+   * screenshots mailing 2
+   * Data analyse mailing 2
