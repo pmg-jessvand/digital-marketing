@@ -3,7 +3,7 @@ Na het versturen van een eerste mail werden volgende gegevens verzameld. Hier vo
 
 Ik vond het werken met mailchimp een leuke opdracht. Het feit dat je extra feedback krijgt van een externe groep is zeker een positief gegeven. Op deze manier krijgen we ook inzicht over hoe je feedback kan verwerken van mensen uit verschillende standpunten. Mailchimp zelf is voor mijn niets nieuws aangezien ik hier al mee gewerkt heb op mijn stage. Ik ben blij dat er voor Mailchimp gekozen werd omdat dit, volgens mijn persoonlijke mening, de beste tool is om e-mails te analyseren en verwerken.
 
-Bij het opstellen van een e-mail is het belangrijk om rekening te houden met hoe je zelf zou reageren als je deze zou ontvangen. Ik koos ervoor om de mensen persoonlijk aan te spreken in de onderwerp regel. Zo zijn mensen eerder geneigd om de mail te openen en te lezen om dat ze hun naam lezen. De link naar het formulier zette ik redelijk hoog in de e-mail zodat men meteen het formulier konden invullen. Zo vermijd je dat men je beu is alvorens ze je input geven. Door te korte introductie weten de respondenten over wat het gaat en kunnen ze meteen feedback geven. Alles wat na de formulierlink gelezen word is uit interesse en is mooi meegenomen.
+Bij het opstellen van een e-mail is het belangrijk om rekening te houden met hoe je zelf zou reageren als je deze zou ontvangen. Ik koos ervoor om de mensen persoonlijk aan te spreken in de onderwerpregel. Zo zijn mensen eerder geneigd om de mail te openen en te lezen omdat ze hun naam lezen. De link naar het formulier zette ik redelijk hoog in de e-mail zodat men meteen het formulier konden invullen. Zo vermijd je dat men je beu is alvorens ze je input geven. Door de korte introductie weten de respondenten over wat het gaat en kunnen ze meteen feedback geven. Alles wat na de formulierlink gelezen word is uit interesse en dus mooi meegenomen.
 
 ---
 
@@ -23,13 +23,13 @@ De meeste mails werden geopend om 13:00 en om 15:00. Deze tijdstippen had ik op 
 ## Form analyse
 Om de mening van mijn doelpubliek te bevragen maakte ik gebruik van een Google form. In deze korte vragenlijst ging ik na wat men dacht over de globale stijl van de website en een paar voorbeelden van pagina's. Hieruit blijken volgende resultaten:
 
-**Wat vindt u van de stijl van de website?**
+**Wat vindt u van de stijl van de website?** <br/>
 Iedereen vond dat ik in de goede richting zat qua stijl. Hier ben ik blij mee. Dit wil zeggen dat ik de stijl kan hanteren die ik voor ogen had.
 
-**Wat vindt u van een voorbeeld van hoe de homepagina er kan uitzien?**
+**Wat vindt u van een voorbeeld van hoe de homepagina er kan uitzien?** <br/>
 Bij deze vraag konden er meerdere antwoorden aangeduid worden. Meer dan de helft van de mensen vonden dat ze het cool vonden en dat ze fan waren. Ik besluit hieruit dat de layout goed zit en ook goed samen gaat met mijn stijl.
 
-**Wat vindt u van een voorbeeld van hoe een blogpost er kan uitzien?**
+**Wat vindt u van een voorbeeld van hoe een blogpost er kan uitzien?** <br/>
 Net iets meer dan de helft van de respondenten gaven dit een 4 op 5. Dit toont aan dat dit de meesten vinden dat de layout van een detailpagina goed zit. Er waren ook enkele die vonden dat dit onduidelijk en/of chaotisch was.
 
 Ik gaf ook de kans om nog extra feedback mee te geven en daaruit merkte ik het volgende op. Hoewel de meeste geen extra feedback hadden waren er toch enkele belangrijke opmerkingen. Enkele vonden dat de donkere achtergrond kleur iets te donker was waardoor sommige dingen onduidelijk werden. Ik kreeg ook de tip om op te letten met bepaalde afkortingen zoals bv PGM.
