@@ -27,7 +27,7 @@ Voor deze tweede mail gebruikte ik terug Google Forms om de mening van mijn doel
 * De titels met accentkleur is niet altijd even duidelijk.
 
 **Update achtergrondkleur** <br/>
-Voor het nieuwe design had ik de achtergrond kleur lichter gemaakt. Persoonlijk was ik al aan het overwegen om dit te doen omdat ik mij ook afvroeg of alles nog duidelijk was met die donkere kleur. Door het een lichtere tint te geven (meer grijs dan zwart) word alles veel duidelijk er en luchtiger zonder dat ik moet afwijken van mijn concept. 
+Voor het nieuwe design had ik de achtergrond kleur lichter gemaakt. Persoonlijk was ik al aan het overwegen om dit te doen omdat ik mij ook afvroeg of alles nog duidelijk was met die donkere kleur. Door het een lichtere tint te geven (meer grijs dan zwart) word alles veel duidelijk er en luchtiger zonder dat ik moet afwijken van mijn concept. De meerderheid vond dit ook.
 
 **Layout detailpagina** <br/>
 Toen ik mijn eerste versie van een detailpagina maakte had ik twijfels of dit een goeie layout zou zijn. In situaties zoals deze is het goed om feedback te vragen aan mensen die buiten het project staan. Uit de feedback bleek dat mijn twijfels terrecht waren aangezien dit de meest voorkomende opmerking was. De grote meerderheid verkoos het nieuwe design.
@@ -44,5 +44,11 @@ De respons die ik kreeg was terug positief dus hier ben ik opnieuw gelukkig mee.
 Deze keer was de indeling van mijn vragenlijst anders. De vragen waren verspreid over meerdere paigna's. Op deze manier kon ik duidelijker mijn oud en nieuw design vergelijken met elkaar zonder dat mijn formulier super lang werd. Dit zorgde er volgens mij voor dat men afgeschrikt was om mijn vragenlijst in te vullen. Voor de toekomst weet ik nu dat het beter is om alles op 1 pagina te maken (indien niet te overdreven lang) in tegenstelling tot meerdere pagina's. Dit hangt ook af van project tot project dus het is moeilijk om daarover een conclusie te geven.
 
 Het tijdstip van verzenden verschillde met dat van vorige keer wat volgens mij in minder geopende mails resulteerde. Het beste bijft rond de middag omdat dan de meeste hun mails checken. Ik ontdekte ook iets wat ik al goed deed. Mailchimp heeft een feature (Personolize 'to' field) die helpt om te vermijden dat jouw mail in de spam-folder komt. Het leek mij logisch om deze feature te gebruiken aangezien een persoonlijke aanpak bijna altijd het beste is, maar dit heeft blijkbaar ook een belangrijke bijwerking.
+
+Bij de vraag over het nieuwe achtergrondkleur kreeg ik de opmerking dat het verschil niet duidelijk is op mobile devices. Dit is niet echt een probleem aangezien men het originele achtergrondkleur goed vond. Voor de mensen die het originele kleur al goed vonden is er niet veel veranderd en er is geluisterd naar diegene die het te donker vonden.
+
+Het design van een detailpagina vind ik persoonlijk beter nu. Door de keuze te maken om met minder afbeeldingen te werken en in plaats daarvan een link naar de website te plaatsen, is het design veel minder druk.
+
+Ook al vinden de meeste mensen de titels met accentkleur beter, ga ik denk ik toch kiezen om dit te laten vallen. De weinige meerwaarde die het accentkleur geeft ruil ik graag in voor een meer leesbaar design.
 
 ---
